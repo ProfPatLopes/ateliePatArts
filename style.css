@@ -9,5 +9,7 @@ ul {
 }
 
 html {
+    width: 400px;
+    height: 300px;
     background-image: url(planodefundo.jfif);
 }
