@@ -7,9 +7,10 @@ ul {
 .imagemopcoes {
     width: 50%;
 }
-html {
+
+body {
 width: 400px;
   height: 300px;
-  background-image: url("planodefundo.jfif");
+  background-image: url(planodefundo.jfif);
   display: inline;
 }
