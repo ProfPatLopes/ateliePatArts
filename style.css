@@ -11,4 +11,8 @@ ul {
 .imagemfundo {
     width: 150%;
 }
+.html {
+    background-image: "planodefundo.jfit";
+    background-size:  150px;
+}
 
