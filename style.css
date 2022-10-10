@@ -8,7 +8,7 @@ ul {
     width: 30%;
 }
 
-html {
-    
-    background-image: url(planodefundo.jfif);
+.imagemfundo {
+    width: 150%;
 }
+
