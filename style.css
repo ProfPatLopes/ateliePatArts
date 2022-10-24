@@ -4,6 +4,16 @@ ul {
     width: 20%;
     margin-right: 15%;
 }
+nav a{
+    width: 50%;
+    display: inline;
+    text-decoration: none;
+}
+nav li{
+    display: inline;
+    text-decoration: none;
+    color:coral;
+}
 .imagemopcoes {
     width: 30%;
 }
