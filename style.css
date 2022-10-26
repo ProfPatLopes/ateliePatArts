@@ -16,6 +16,9 @@ nav li{
 .imagemopcoes {
     width: 30%;
 }
+.texto-principal{
+    background-color:whitesmoke;
+}
 body{
 
     background-color: gainsboro;
