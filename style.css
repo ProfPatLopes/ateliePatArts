@@ -16,7 +16,10 @@ nav li{
 .imagemopcoes {
     width: 30%;
 }
+body{
 
+    background-color: gainsboro;
+}
 .imagemfundo {
     width: 150%;
 }
