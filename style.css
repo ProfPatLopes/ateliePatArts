@@ -19,6 +19,7 @@ nav li{
 .texto-principal{
     background-color:whitesmoke;
     text-align: justify;
+    max-width: 20px;
 }
 body{
 
