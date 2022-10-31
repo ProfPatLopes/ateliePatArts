@@ -37,6 +37,6 @@ body{
     background-size:  100%;
 }
 .footer{
-    position:fixed;
+    position:relative;
     bottom: 700px;
 }
