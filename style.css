@@ -18,6 +18,7 @@ nav li{
 }
 .imagemopcoes {
     width: 30%;
+    top:100px;
 }
 .texto-principal{
     background-color:whitesmoke;
