@@ -36,4 +36,7 @@ body{
     background-image: "planodefundo.jpg";
     background-size:  100%;
 }
-
+.footer{
+    position:fixed;
+    bottom: 300px;
+}
