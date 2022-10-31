@@ -4,6 +4,9 @@ ul {
     width: 20%;
     margin-right: 15%;
 }
+nav {
+    background-color:darksalmon;
+}
 nav a{
     display: inline;
     text-decoration: none;
